@@ -4,7 +4,7 @@ import time
 
 characters=["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","r","s","t","y","u","v","z","w","x","q","1",
                   "2","3","4","5","6","7","8","9","0"," "]
-password=input("mesaj:")
+password=input("password:")
 current=""
 index=0
 
