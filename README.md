@@ -9,7 +9,8 @@ Each project is small, simple, and focuses on practicing basic concepts like loo
 	•	Food Order System
 	•	Password Guessing Simulation
 	•	Mad Libs Game
-
+ 	•	Hangman Game
+ 		
 📜 License
 
 This project is licensed under the MIT License.
